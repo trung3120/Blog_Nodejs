@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+
+body{
+    background-color: #F6D5A5;
+}
+
+.content{
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 140px;
+    margin-right: 120px;
+    width: 700px;
+    height: 500px;
+}
+
+.title{
+    font-family: Noto Sans;
+    color: #011531;
+}
+
+.introduce{
+    color: #5F676B;
+    font-size: 15px;
+}
+
+h1{
+    margin-top: 50px;
+    font-family: Noto Sans;
+    color: #011531;
+}
+
+.left{
+    margin-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    width: 300px;
+    float: left;
+}
+
+.guibieumau{
+    background-color: #E81A1E;
+    border: 1px solid #E81A1E;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 30px;
+    margin-top: 20px;
+}
+
+.social{
+    margin-top: 70px;
+    letter-spacing: 8px;
+}
+
+.right{
+    width: 350px;
+    float: right;
+}
+
+.picture{
+    border-radius: 20px;
+}
